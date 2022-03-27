@@ -1,6 +1,8 @@
 #  👋 Hi, my name is Jasper De Wilde
 
-I'm a programming student at Arteveldehogeschool. <br> 
+- programming student at Arteveldehogeschool.
+- 23 years old
+- living in East Flanders, Belgium.
 
 ---
 ### Skills:
