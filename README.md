@@ -3,7 +3,6 @@
 - :man_student: Student programming at Arteveldehogeschool.
 - :cake: 24 years old (18/07/1998)
 - :house: living in East Flanders, Belgium.
-- :e-mail: How to reach me **dewilde.jasper@hotmail.be**
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pgm-jaspdewi&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
 
