@@ -21,7 +21,7 @@
 
 ## Socials: 
 <a target="_blank" href="https://www.linkedin.com/in/jasper-de-wilde-333777221/"> LinkedIn </a> <br>
-<a target="_blank" href="https://github.com/pgm-jaspdewi"> Github </a>
+<!-- <a target="_blank" href="https://github.com/pgm-jaspdewi"> Github </a> -->
 
 
 
