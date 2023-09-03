@@ -4,7 +4,7 @@
 - :cake: 25 years old (18/07/1998)
 - :house: living in East Flanders, Belgium.
 
-<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pgm-jaspdewi" alt="Main GitHub stats">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pgm-jaspdewi&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Languages:
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange) &nbsp; 
