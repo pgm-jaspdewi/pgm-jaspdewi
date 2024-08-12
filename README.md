@@ -1,7 +1,7 @@
 #  👋 Hi, my name is Jasper De Wilde
 
 - :man_student: Student programming at Arteveldehogeschool.
-- :cake: 25 years old (18/07/1998)
+- :cake: 26 years old (18/07/1998)
 - :house: living in East Flanders, Belgium.
 
 
